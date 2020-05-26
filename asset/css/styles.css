@@ -1,0 +1,56 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.content-wrapper {
+  width: 100%;
+  height: 100vh;
+}
+
+.content-wrapper {
+  background-image: url("../images//working-on-laptop|Sabita-Neupane.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.content {
+  color: #ffffff;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  padding-top: 160px;
+}
+
+.content h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 60px;
+}
+
+.content h1 span {
+  color: #2fa28c;
+}
+
+.content h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+}
+
+.content p {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  padding: 40px;
+}
+
+.social-profile a {
+  font-size: 32px;
+  padding: 2px;
+  text-decoration: none;
+  color: #ffffff;
+  opacity: 0.8;
+}
+
+.social-profile a:hover {
+  opacity: 1;
+}
