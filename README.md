@@ -1,4 +1,4 @@
-# Hi, I'm [Sabita Neupane](sabitaneupane.github.io)
+# Hi, I'm [Sabita Neupane](http://sabitaneupane.github.io/)
 ## React Developer
 
 
